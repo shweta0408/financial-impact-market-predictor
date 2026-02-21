@@ -2,7 +2,7 @@
 
 > NLP + Machine Learning pipeline that analyzes financial headlines and predicts market impact.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![DEMO]([https://your-app.streamlit.app](https://financial-impact-market-predictor.streamlit.app/))
 
 ---
 
@@ -21,16 +21,7 @@
 
 > **All files are in the same folder** — no subfolders, no package imports. Works perfectly on Streamlit Cloud.
 
----
 
-## 🚀 Deploy on Streamlit Cloud
-
-1. Push this folder to a GitHub repository
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) → **New app**
-3. Set **Main file path** → `streamlit_app.py`
-4. Click **Deploy** — done!
-
----
 
 ## 💻 Run Locally
 
