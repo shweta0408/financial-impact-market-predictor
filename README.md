@@ -131,3 +131,11 @@ sp.print_results(results)
 2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) → **New app**
 3. Select your fork → set **Main file path** to `streamlit_app.py`
 4. Click **Deploy**
+
+
+---
+
+## Connect Me!
+[Linkedin](https://www.linkedin.com/in/shweta-mishra-4777681a4)
+[Github](https://github.com/shweta0408)
+---
