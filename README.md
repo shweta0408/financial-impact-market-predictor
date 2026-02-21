@@ -1,10 +1,14 @@
 # 📊 Financial News Sentiment: Market Impact Predictor
 
 > NLP + Machine Learning pipeline that analyzes financial headlines and predicts market impact.
+```
 
-[![DEMO]([https://your-app.streamlit.app](https://financial-impact-market-predictor.streamlit.app/))
+```
+## Live Demo
+`https://financial-impact-market-predictor.streamlit.app`
 
----
+```
+
 
 ## 🗂️ Project Structure (Flat — Streamlit Cloud Ready)
 
